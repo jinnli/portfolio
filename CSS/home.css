@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{	
+	width: 1200px;
+	margin: 0px auto;
+	background-color: #0D0600;
+}
+
+nav{height: 10px;
+	padding-top: 0px; padding-bottom: 10px;
+}
+
+nav li{
+	display: inline;
+	padding-left: 24px; padding-right: 24px; padding-top: 6px; padding-bottom: 4px;
+	margin-left: 170px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 180%;
+}
+
+nav a {
+	text-decoration: none;
+	color: #DE8233;
+}
+
+div.main {
+	width: 1200px;
+	margin: 5px auto;
+	height: 960px;
+	background-image: url("../images/homepage.jpeg");
+}
+
+div.main h2 {color: #000000;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 290%;
+	padding-left: 475px; padding-top: 120px;
+}
+
+div.main h1 {color: #DE8233;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 550%;
+	-webkit-text-stroke: 0px #DE8233;
+	text-shadow: 10px 10px 20px #E4A36F;
+	padding-left: 350px;
+}
+
+div.main p {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 240%;
+	padding-left: 205px;
+}
+
+div.contactme {
+	padding-top: 5px; padding-bottom: 30px;
+}
+
+div.contactme h2 {color: #DE8233;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 220%;
+}
+
+div.contactme h3 {color: #E4A36F;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 200%;
+}
+
+div.contactme p {color: white;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 140%;
+}
+
+div.contactme a {text-decoration: none; color: white;}
+
+div.email {width: 320px;
+	border: ridge; border-color: #E4A36F; border-radius: 15px;
+	padding-left: 25px; padding-bottom: 15px;
+	margin-top: 10px;
+	float: left;
+}
+
+div.phone {width: 310px;
+	border: ridge; border-color: #E4A36F; border-radius: 15px;
+	padding-left: 25px; padding-bottom: 15px;
+	margin-top: 10px;
+	float: right; margin-right: 450px;
+}
+
+div.social {width: 320px;
+	border: ridge; border-color: #E4A36F; border-radius: 15px;
+	padding-left: 25px; padding-bottom: 15px;
+	margin-top: -280px; margin-bottom: 150px;
+	float: right; margin-right: 20px;
+}
+

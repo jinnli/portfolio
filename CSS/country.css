@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 1200px;
+	margin: 0px auto;
+	background-color: #F7E6D7;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+nav{height: 10px;
+	padding-top: 0px; padding-bottom: 30px;
+	
+}
+
+nav li{
+	display: inline;
+	padding-left: 24px; padding-right: 24px; padding-top: 6px; padding-bottom: 4px;
+	margin-left: 180px;
+	font-size: 180%;
+}
+
+nav a {
+	text-decoration: none;
+	color: #DE8233;
+}
+
+h2 {text-align: center;
+	font-size: 280%;
+}
+
+div.china {background-image: url("../images/other/mapofchina.png");
+	width: 980px; height: 820px;
+	background-repeat: no-repeat;
+	margin-left: 100px;
+}
+
+a.hb {float: right;
+	margin-top: 515px; margin-right: 280px;
+	text-decoration: none;
+	color: black;
+	font-size: 110%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+a.hb:hover {color: #DE8233;}
+
+a.xz {text-decoration: none;
+	color: black;
+	font-size: 120%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: right; margin-top: 480px; margin-right: 400px;
+}
+
+a.xz:hover {color: #DE8233;}
+
+a.sh {text-decoration: none;
+	color: black;
+	font-size: 110%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 860px; margin-top: -50px;
+}
+
+a.sh:hover {color: #DE8233;}
+
+a.xj {text-decoration: none;
+	color: black;
+	font-size: 120%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 160px; margin-top: -230px;
+}
+
+a.xj:hover {color: #DE8233;}
+
+a.yn {text-decoration: none;
+	color: black;
+	font-size: 120%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 440px; margin-top: 130px;
+}
+
+a.yn:hover {color: #DE8233;}
+
+a.xm {text-decoration: none;
+	color: black;
+	font-size: 110%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 793px; margin-top: -12px;
+}
+
+a.xm:hover {color: #DE8233;}
+
+
+div.us {background-image: url("../images/other/mapofus.png");
+	width: 850px; height: 600px;
+	background-repeat: no-repeat;
+	margin-left: 180px;
+}
+
+a.la {text-decoration: none;
+	color: black;
+	font-size: 110%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 45px; margin-top: 300px;
+}
+
+a.la:hover {color: #DE8233;}
+
+a.m {text-decoration: none;
+	color: black;
+	font-size: 110%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 360px; margin-top: 120px;
+}
+
+a.m:hover {color: #DE8233;}
+
+
+div.japan {background-image: url("../images/other/mapofjapan.png");
+	width: 850px; height: 600px;
+	background-repeat: no-repeat;
+	margin-left: 180px;
+}
+
+a.h {text-decoration: none;
+	color: black;
+	font-size: 120%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	float: left; margin-left: 730px; margin-top: 120px;
+}
+
+a.h:hover {color: #DE8233;}
+
+
+a.top {text-decoration: none;
+	color: #DE8233;
+}
+a.top:hover {color: #E4A36F;}
+p.top {text-align: right; font-size: 150%; margin-top: 30px; margin-bottom: 50px;}
+

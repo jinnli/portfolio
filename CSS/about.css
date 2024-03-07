@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 1200px;
+	margin: 0px auto;
+	background-color: #F7E6D7;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+nav{height: 10px;
+	padding-top: 0px; padding-bottom: 30px;
+	background-color: #0D0600;
+}
+
+nav li{
+	display: inline;
+	padding-left: 24px; padding-right: 24px; padding-top: 6px; padding-bottom: 4px;
+	margin-left: 170px;
+	font-size: 180%;
+}
+
+nav a {
+	text-decoration: none;
+	color: #DE8233;
+}
+
+h2 {font-size: 200%;}
+
+p.about {width: 900px;}
+
+em.chinese {font-family: '楷体'; font-style: normal;}
+
+img.about {float: right;
+	border-radius: 10px;
+	margin-top: -190px; margin-right: 20px;
+}
+
+p {font-size: 130%;
+	text-align: justify;
+}
+
+div {padding-top: 0px;
+	margin-bottom: 150px;
+}
+
+div a.school {color: #DE8233;}
+div a.school:hover {color: #E4A36F;}
+
+h3 {font-size: 160%;
+	margin-top: 50px;
+}
+
+li {font-size: 120%;
+	text-align: justify;
+}
